@@ -18,7 +18,10 @@ Washington, DC residents use 311 to report problems like missed trash pickup, po
 - Infrastructure repairs take the longest to resolve. **Roadway Repair** averaged **141 days** and **Sidewalk Repair 122 days**, compared to weeks for most other request types.
 - Requests peaked in **July (45,137)** and bottomed out in **December (26,378)**, a 71% swing. Seasonal services like yard waste pickup and more outdoor activity in summer likely explain the difference.
 
-
+## Charts
+   ![Top request types](top_request_types.png)
+   ![Requests by ward](requests_by_ward.png)
+   ![Requests per month](requests_per_month.png)
 
 ## Tools used
 Python (pandas, matplotlib), SQL (SQLite), including GROUP BY, HAVING, subqueries, window functions (RANK), and date math.
